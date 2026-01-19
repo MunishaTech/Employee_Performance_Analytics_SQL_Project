@@ -1,0 +1,21 @@
+employee_id,employee_name,department,designation,monthly_target,monthly_achievement,performance_rating,bonus_eligibility,location
+E101,Anita,Sales,Executive,100000,120000,5,Yes,Bangalore
+E102,Rahul,Sales,Executive,100000,95000,4,No,Bangalore
+E103,Pooja,HR,HR Executive,80,85,4,Yes,Hyderabad
+E104,Amit,HR,HR Manager,80,70,3,No,Hyderabad
+E105,Suresh,Operations,Team Lead,90,110,5,Yes,Chennai
+E106,Neha,Operations,Executive,90,88,3,No,Chennai
+E107,Arjun,IT,Data Analyst,95,130,5,Yes,Bangalore
+E108,Kiran,IT,Support Engineer,95,90,3,No,Bangalore
+E109,Riya,Finance,Accountant,85,92,4,Yes,Mumbai
+E110,Vikas,Finance,Senior Accountant,85,80,3,No,Mumbai
+E111,Manoj,Sales,Manager,120000,150000,5,Yes,Delhi
+E112,Simran,Sales,Executive,100000,105000,4,Yes,Delhi
+E113,Deepak,Operations,Manager,100,140,5,Yes,Chennai
+E114,Priya,HR,Recruiter,80,78,3,No,Hyderabad
+E115,Sunil,IT,Developer,95,100,4,Yes,Bangalore
+E116,Kavya,Finance,Analyst,85,90,4,Yes,Mumbai
+E117,Rohit,Sales,Executive,100000,97000,3,No,Delhi
+E118,Meena,Operations,Coordinator,90,92,4,Yes,Chennai
+E119,Aditya,IT,Data Engineer,95,125,5,Yes,Bangalore
+E120,Nisha,HR,HR Executive,80,88,4,Yes,Hyderabad
