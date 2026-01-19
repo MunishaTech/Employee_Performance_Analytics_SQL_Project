@@ -45,7 +45,7 @@ MySQL
 
 MySQL Workbench
 
-SQL (Aggregations, Window Functions, CASE Statements)
+SQL (Joins, Aggregations, Window Functions, CASE Statements)
 
 Excel (for initial data exploration & dashboarding)
 
@@ -158,6 +158,9 @@ Apply window functions and ranking
 Generate executive-level insights
 
 Author
+
 Munisha 
 Aspiring Data Analyst / Business Analyst
 SQL | Excel | Tableau | Business Analytics
+
+ 
